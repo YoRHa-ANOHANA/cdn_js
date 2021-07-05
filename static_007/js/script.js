@@ -130,4 +130,4 @@ $(function () {
 	}); 
 });
 
-console.log("\n %c 请勿盗用，购买联系：v.444411.xyz %c \n","color: #fadfa3; background: #030307; padding:5px 0;","background: #fadfa3; padding:5px 0;")
+console.log("\n %c 如有侵权请联系：yorha1997@outlook.com %c \n","color: #fadfa3; background: #030307; padding:5px 0;","background: #fadfa3; padding:5px 0;")
